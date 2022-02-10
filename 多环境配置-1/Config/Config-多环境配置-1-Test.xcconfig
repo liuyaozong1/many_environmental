@@ -1,0 +1,10 @@
+//
+//  Config-多环境配置-1-Test.xcconfig
+//  多环境配置-1
+//
+//  Created by liuyaozong on 2022/2/8.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+HOST_URL = test
